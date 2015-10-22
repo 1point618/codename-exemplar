@@ -12,27 +12,27 @@ Create a new branch w/ new content on that branch.
 Create a PR for that branch into master.
 
 ## Things the bot needs to be able to do while interacting with the user:
-Make comments on issues created by the project set-up.
-Make comments on issues created by the bot after set-up.
-Make comments on issues and PRs created by the USER.
-Update issues and comments to new text.
-Revert a commit made to master.
-Assign an issue to the user.
-Create a new issue.
-Assign a label to an issue.
+* Make comments on issues created by the project set-up.
+* Make comments on issues created by the bot after set-up.
+* Make comments on issues and PRs created by the USER.
+* Update issues and comments to new text.
+* Revert a commit made to master.
+* Assign an issue to the user.
+* Create a new issue.
+* Assign a label to an issue.
 
 ## Things we need to be able to verify:
-The text in a user-comment (keyword search?).
-Whether the bot was @-mentioned in a comment / PR.
-The label assigned to an issue.
-The label assigned to multiple issues.
-The user assigned to an issue.
-The text of a PR.
-Which branch a commit was made to.
-A label was assigned to the wrong issue(s).
-An issue was assigned the wrong label.
-A user was assigned to the wrong issue.
-A group of actions were all completed (regardless of order).
+* The text in a user-comment (keyword search?).
+* Whether the bot was @-mentioned in a comment / PR.
+* The label assigned to an issue.
+* The label assigned to multiple issues.
+* The user assigned to an issue.
+* The text of a PR.
+* Which branch a commit was made to.
+* A label was assigned to the wrong issue(s).
+* An issue was assigned the wrong label.
+* A user was assigned to the wrong issue.
+* A group of actions were all completed (regardless of order).
 
 
 ## Lesson 1: Using Issues to Communicate
