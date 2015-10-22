@@ -12,6 +12,8 @@ I've included the text we want in the readme below. Add the text, commit it to a
 - [ ] Once they comment w/ a :+1:, merge the PR.
 - [ ] Delete the branch.
 
+---
+
 Once you've finished this lesson, I'll create a new `learning` issue and assign it to you, you'll need to go there to learn more.
 
 If you need help, just @-mention me below asking for help and I'll send you a more detailed tutorial for how to do this. 
@@ -30,7 +32,7 @@ It should be markdown.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing @jenmc711! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing Nate! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
 1. Click on the repo name.
 2. Click on the readme.md file.
