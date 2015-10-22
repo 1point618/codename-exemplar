@@ -4,10 +4,10 @@
 We need a repo that looks like [this](https://github.com/1point618/exemplar-project/).
 
 * Create 6 new issues.
-* Create 2 new labels: "learning" (gold) and "feature" (light green). 
+* Create 2 new labels: "learning" (gold) and "feature" (light green).
 * Label the issues with learning or feature as necessary.
 
-* Stuff not in the current repo but needed:
+Stuff not in the current repo but needed:
 * Create a new branch w/ new content on that branch.
 * Create a PR for that branch into master.
 
