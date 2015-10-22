@@ -30,7 +30,7 @@ It should be markdown.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing @PeterBell! I wanted to push you because you'd learned the rest so quickly, but this tricks everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing @jenmc711! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
 1. Click on the repo name.
 2. Click on the readme.md file.
@@ -44,7 +44,7 @@ Sure thing @PeterBell! I wanted to push you because you'd learned the rest so qu
 10. Create the pull request.
 11. Wiat for the teacher to comment on your PR. 
 12. Once they've given you the thumbs up, click "merge the pull request", and confirm the merge.
-13. Delete the branch.
+13. Delete the branch.``
 14. Come back to this issue. It should be closed, because of the `fixes` tag.
 
 Once you do, I'll tell you a bit more about _why_ we do things this way. It's called the GitHub Workflow and it's a pretty important part of how we work.

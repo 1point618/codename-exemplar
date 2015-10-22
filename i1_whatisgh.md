@@ -1,6 +1,6 @@
 #Using Issues to Communicate
 
-Hi @PeterBell! Welcome to the team.
+Hi @jenmc711! Welcome to the team.
 
 I'm Brienne, your new manager. Today I'll be onboarding you to GitHub. GitHub is where we manage our projects and store our code and content. You'll be up and running in no time.
 
@@ -19,8 +19,8 @@ Now, on the right, assign this issue to yourself and label it with the gold `lea
 
 USER PERFORMS BOTH ACTIONS
 
-Great job @PeterBell!
+Great job @jenmc711!
 
 We use issues for all sorts of communications, including reporting bugs, requestiong new features, open-ended discussions about our site, and tracking the development of the site. An issue can be assigned to someone so that they know that they "own" the issue and the work that it will take to complete it. We label issues so that we can more easily search through them. You can also use [markdown](https://help.github.com/articles/markdown-basics/) to format issues—that's how I made those sweet check boxes and that link. 
 
-There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the "Issues" icon to the right, then go to the other issues labeled `learning`. 
+There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the "Issues" icon to the right, then go to the other issues named **Lesson 2: Managing Issues**. 
