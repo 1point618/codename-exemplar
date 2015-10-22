@@ -3,13 +3,13 @@
 ## Project set-up. 
 We need a repo that looks like [this](https://github.com/1point618/exemplar-project/).
 
-Create 6 new issues.
-Create 2 new labels: "learning" (gold) and "feature" (light green). 
-Label the issues with learning or feature as necessary.
+* Create 6 new issues.
+* Create 2 new labels: "learning" (gold) and "feature" (light green). 
+* Label the issues with learning or feature as necessary.
 
-Stuff not in the current repo but needed:
-Create a new branch w/ new content on that branch.
-Create a PR for that branch into master.
+* Stuff not in the current repo but needed:
+* Create a new branch w/ new content on that branch.
+* Create a PR for that branch into master.
 
 ## Things the bot needs to be able to do while interacting with the user:
 * Make comments on issues created by the project set-up.
