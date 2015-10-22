@@ -32,7 +32,7 @@ It should be markdown.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing Nate! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing @user! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
 1. Click on the repo name.
 2. Click on the readme.md file.
