@@ -35,3 +35,5 @@ Still doesn't understand what an issue is. Just trying to follow the instruction
 "The only thing I was trying to do was follow the directions, but I'm a little fuzzy on what I actually did or how it would fit into a bigger picture."
 
 If the content were better, would that have helped? "Yeah, maybe?"
+
+When asked whether she'd prefer doing this on github, or getting sent an article about github, she seemed to mildly prefer this, but without seeing better content was hard to tell. From watching her, she definitely learned more this way even if she didn't feel like it.
