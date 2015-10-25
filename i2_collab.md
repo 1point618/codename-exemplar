@@ -4,7 +4,7 @@ Great job so far. You weren't lying about being a fast learner in your interview
 
 Next, we're going to have you perform some batch actions on issues from the Issues View. I'll keep track of them here, and you'll be able to see your progress from within the Issues View, just refresh then look next to the title of this issue.
 
-![Issue Tracking](issue-tracking.png)
+![Issue Tracking](https://github.com/1point618/codename-exemplar/blob/master/img/issue-tracking.png?raw=true)
 
 If you get stuck on any of these tasks, the [Mastering Issues GitHub Guide](https://guides.github.com/features/issues/) should have all the info you need to collect them. You can also come back here, and I'll give you feedback on what you've done so far. 
 
