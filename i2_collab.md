@@ -8,6 +8,8 @@ Next, we're going to have you perform some batch actions on issues from the Issu
 
 If you get stuck on any of these tasks, the [Mastering Issues GitHub Guide](https://guides.github.com/features/issues/) should have all the info you need to collect them. You can also come back here, and I'll give you feedback on what you've done so far. 
 
+I recommend opening the Issue View in another tab while you work, so you can easily keep an eye on this issue.
+
 Once the status bar hits 100%, go ahead and close this Issue like you did the last one, and then click through to the bug Issue that you assigned to yourself.
 
 ## Progress
@@ -23,7 +25,7 @@ USER ONLY ASSIGNS SOME ISSUES W/ FEATURE LABEL
 
 Hey `@user`, looks like you didn't assign all the unlabeled issues like I asked. If you use the check boxes in the Issues View, you can assign multiple issues with the same label at the same time. I'd recommend doing it that way.
 
-![Label Tutorial](label-tutorial.png)
+![Label Tutorial](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/label-tutorial.png)
 
 
 USER ASSIGNS THE WRONG LABEL
