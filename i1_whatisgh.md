@@ -11,7 +11,7 @@ To get started, type a comment below. @-mention me by typing the `@` symbol foll
 
 USER COMMENTS
 
-Great job! @-mentions are used to tag people into converations so that they know you're talking about them and want their input. A person will receive a notification when you @-mention them.
+Great job! @-mentions are used to tag people into conversations so that they know you're talking about them and want their input. A person will receive a notification when you @-mention them.
 
 Now, on the right, assign this issue to yourself and label it with the gold `learning` label. I'll keep track of your progress in this comment. If you're not sure if you did it right, refresh the page then check below to see if I checked the box or not.
 
@@ -36,7 +36,7 @@ USER PERFORMS BOTH ACTIONS
 
 Great job @user!
 
-We use issues for all sorts of communications, including reporting bugs, requestiong new features, open-ended discussions about our project, and tracking the development of the project. 
+We use issues for all sorts of communications, including reporting bugs, requesting new features, open-ended discussions about our project, and tracking the development of the project. 
 
 An issue can be assigned to someone so that they know that they "own" the issue and the work that it will take to complete it. 
 
