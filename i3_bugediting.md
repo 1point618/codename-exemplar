@@ -1,4 +1,4 @@
-# Fix the Readme File
+# Lesson 3: Fix the Readme File
 
 The `readme.md` file is a file that sits in the main directory of a repo. It's another way we use to communicate with each other. The `readme.md` file should include everything we need to get the repo running on our local computers. 
 
