@@ -44,8 +44,4 @@ We label issues so that we can more easily search through them.
 
 You can also use [markdown](https://help.github.com/articles/markdown-basics/) to format issues—that's how I made those sweet check boxes and that link. 
 
-There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the Issues icon\*  to the right to get to the "Issues View", then click through to the issue named **Lesson 2: Managing Issues**. 
-
-\* This one: ![Issue View icon](https://github.com/1point618/codename-exemplar/blob/master/img/issue-view-icon.png)
-
-<span class="octicon octicon-issue-opened"></span>
+There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the Issues icon \(![Issue Icon](https://github.com/1point618/codename-exemplar/blob/master/img/issue-icon.png)\) to the right to get to the "Issues View", then click through to the issue named **Lesson 2: Managing Issues**.
