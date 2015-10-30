@@ -1,6 +1,6 @@
 #Using Issues to Communicate
 
-Hi `@user`! Welcome to the team.
+Hi @sabinamehmedovic! Welcome to the team.
 
 I'm Adrian, your new manager. Today I'll be onboarding you to GitHub. GitHub is where we manage our projects and store our code and content. You'll be up and running in no time.
 
@@ -34,7 +34,7 @@ You can perform these actions to the right.
 
 USER PERFORMS BOTH ACTIONS
 
-Great job `@user`!
+Great job @sabinamehmedovic!
 
 We use issues for all sorts of communications, including reporting bugs, requesting new features, open-ended discussions about our project, and tracking the development of the project. 
 
