@@ -10,7 +10,7 @@ Once you've finished this lesson, I'll create a new `learning` issue and assign 
 If you need help, just @-mention me below asking for help and I'll send you a more detailed tutorial for how to do this. Again, keeping this issue open in its own tab while you do the work will make getting feedback and looking at the task list easier.
 
 
-## Progress
+## Instructions
 
 - [ ] Edit readme file, replacing the current text with the information below.
 - [ ] Commit the file to a new branch called "readme-bugfix".
@@ -33,9 +33,9 @@ This is the content of the readme file.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing @sabinamehmedovic! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing `@user`! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
-Hey @sabinamehmedovic, it looks like you commited to `master`, not a bugfix branch. This is bad because [placeholder text]. Try again following the directions below.
+Hey `@user`, it looks like you commited to `master`, not a bugfix branch. This is bad because [placeholder text]. Try again following the directions below.
 
 1. Click on the repo name.  
   ![Repo Name](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/repo-name.png)
@@ -67,7 +67,7 @@ Once you do, I'll tell you a bit more about _why_ we do things this way.
 
 USER COMPLETES LESSON
 
-Great job @sabinamehmedovic! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
+Great job `@user`! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
 
 In the next issue, we'll go through the workflow again, this time more slowly as we add a new feature to the app. When you're ready, go to the new issue I just created and assigned to you called **Add a Contact Us Page** and we'll get started there.
 
