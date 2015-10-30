@@ -47,3 +47,5 @@ You can also use [markdown](https://help.github.com/articles/markdown-basics/) t
 There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the Issues icon\*  to the right to get to the "Issues View", then click through to the issue named **Lesson 2: Managing Issues**. 
 
 \* This one: ![Issue View icon](https://github.com/1point618/codename-exemplar/blob/master/img/issue-view-icon.png)
+
+<span class="octicon octicon-issue-opened"></span>
