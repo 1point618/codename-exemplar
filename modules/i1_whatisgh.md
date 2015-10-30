@@ -1,6 +1,6 @@
 #Using Issues to Communicate
 
-Hi @sabinamehmedovic! Welcome to the team.
+Hi `@user`! Welcome to the team.
 
 I'm Adrian, your new manager. Today I'll be onboarding you to GitHub. GitHub is where we manage our projects and store our code and content. You'll be up and running in no time.
 
@@ -34,7 +34,7 @@ You can perform these actions to the right.
 
 USER PERFORMS BOTH ACTIONS
 
-Great job @sabinamehmedovic!
+Great job `@user`!
 
 We use issues for all sorts of communications, including reporting bugs, requesting new features, open-ended discussions about our project, and tracking the development of the project. 
 
@@ -44,4 +44,4 @@ We label issues so that we can more easily search through them.
 
 You can also use [markdown](https://help.github.com/articles/markdown-basics/) to format issues—that's how I made those sweet check boxes and that link. 
 
-There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the Issues icon to the right to get to the "Issues View", then click through to the issue named **Lesson 2: Managing Issues**. 
+There's one more thing to learn about Issues, then we can move on. Close this issue below, then click on the Issues icon ![Issue View icon](https://github.com/1point618/codename-exemplar/blob/master/img/issue-view-icon.png) to the right to get to the "Issues View", then click through to the issue named **Lesson 2: Managing Issues**. 
