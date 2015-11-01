@@ -1,0 +1,14 @@
+- [ ] Create a new repo called "exemplar-prototype-USERNAME"
+    - [ ] The repo must be instantialized with a Readme, but does not need a `.gitignore` file.
+- [ ] On local repo, find and replace all the instances of \`@user\` with the subject's github user name in the `i#_XX.md` files. 
+- [ ] Create issue called **Lesson 1: Using Issues to Communicate** with text from `i1_whatisgh.md`.
+- [ ] Create issue called **Lesson 2: Managing Issues** with text from `i2_collab.md`.
+- [ ] Create issue called **Fix the Readme File** with text from `i3_bugediting.md`.
+  - [ ] Add comment to this issue from `i3_bugediting.md`.
+- [ ] Create the three issues contained in `iX_issues.md`, in the order listed in that file.
+- [ ] Create a label called `learning` that is gold-colored
+- [ ] Create a label called `features` that is mint-colored.
+- [ ] Label issues 2+3 with `learning`.
+- [ ] Label issues 3+5 with `features`.
+- [ ] Add a webhook to the repo with the url `https://wheelhouse-review.herokuapp.com/github/webhooks/###`, where the number iterates each time.
+- [ ] Add the user as a contributor to the repository.
