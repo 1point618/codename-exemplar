@@ -35,7 +35,7 @@ Hey `@user`, make sure you assign those issues with the `feature` label. I've re
 
 USER ASSIGNS WRONG ISSUE
 
-Hey `@user`, make sure to assign the issue with both the `bug` and `learning` labels to yourself. It's called "Fix the Readme File".
+Hey `@user`, make sure to assign the issue with both the `bug` and `learning` labels to yourself. It's called **Fix the Readme File**.
 
 
 

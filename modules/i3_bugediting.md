@@ -1,8 +1,10 @@
 # Lesson 3: Fix the Readme File
 
-The `readme.md` file is a file that sits in the main directory of a repo. It's another way we use to communicate with each other. The `readme.md` file should include everything we need to get the repo running on our local computers. 
+I'm so sorry to take time out of our lesson, but I need you to do some real work. This is good though, you'll learn how to do some new things on GitHub, and afterwards we'll go over _why_ you did it that way. But for now, just follow my instructions. :smiley:
 
-I've included the text we want in the readme below. Add the text, commit it to a new branch called `readme-bugfix` (**this is very important!**), then submit a pull request for the changes.
+The `README.md` file is a file that sits in the main directory of a repo. It's another way we use to communicate with each other. The `README.md` file should include everything we need to get the repo running on our local computers. 
+
+I've included the text we want in the README below. Add the text, commit it to a new branch called `readme-bugfix` (**this is very important!**), then submit a pull request for the changes.
 
 Once you've finished this lesson, I'll create a new `learning` issue and assign it to you, you'll need to go there to learn more.
 
@@ -12,22 +14,21 @@ If you need help, just @-mention me below asking for help and I'll send you a mo
 
 ## Instructions
 
-- [ ] Edit readme file, replacing the current text with the information below.
+- [ ] Edit the README file, replacing the current text with the information below.
 - [ ] Commit the file to a new branch called "readme-bugfix".
 - [ ] Create a pull request, include the text `fixes #3`.
 - [ ] Once I comment with a :+1:, merge the PR.
 - [ ] Delete the branch.
 
 
-
 COMMENT 1
 
 ```
-This is the content of the readme file.
+This is the content of the README file.
 
 * Right now this is just a blank repo.
 * As we build more lessons, there will be more information in it.
-* But every repo needs a readme file, so this is ours.
+* But every repo needs a README file, so this is ours.
 ```
 
 
@@ -39,7 +40,7 @@ Hey `@user`, it looks like you commited to `master`, not a bugfix branch. This i
 
 1. Click on the repo name.  
   ![Repo Name](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/repo-name.png)
-2. Click on the readme.md file.  
+2. Click on the `README.md` file.  
   ![Readme File](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/readme-file.png)
 3. Click on the edit button (it's a pencil).  
   ![Edit Icon](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/edit-icon.png)
