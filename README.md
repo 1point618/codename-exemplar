@@ -14,6 +14,7 @@
 - [ ] Create a label called `features` that is mint-colored.
 - [ ] Label issues 2+3 with `learning`.
 - [ ] Label issues 3+5 with `bug`.
+- [ ] Add [index.md](repo/index.md) to the repository.
 - [ ] Add a webhook to the repo with the url `https://wheelhouse-review.herokuapp.com/github/webhooks/###`, where the number iterates each time.
 - [ ] Add the user as a contributor to the repository.
 
