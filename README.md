@@ -18,7 +18,7 @@
 - [ ] Add the user as a contributor to the repository.
 
 #Repo Script
-- [ ] Run through [i1_whatisgh.md](modules/i1_whatisgh.md]
+- [ ] Run through [i1_whatisgh.md](modules/i1_whatisgh.md)
 - [ ] Run through [i2_collab.md](modules/i2_collab.md)
 - [ ] Run through [i3_bugediting.md](modules/i3_bugediting.md)
   - [ ] Run through [pr1_bugediting.md](modules/pr1_bugediting.md) then go back to `i3`
