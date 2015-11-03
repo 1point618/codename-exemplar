@@ -55,11 +55,26 @@ A word of caution: make sure you're on that branch when you're editing. If you l
 
 
 
-USER COMMETNS HELP/FILE
+USER COMMENTS HELP/FILE
 
 Click this button to create a new file.
 
 ![New File](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/new-file.png)
+
+
+
+USER COMMITS A FILE TO MASTER
+
+Hey `@user`. You really oughtn't commit to `master`. I've cleaned up the commit, please try again, this time to the `contact-page` branch.
+
+If you need help creating or finding that branch, the branch button is found on the front page of the repo.
+
+![Create Branch](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-branch.png)
+
+Type the name of the new branch in the text box and hit "enter" to create the new branch and move to it.
+
+A word of caution: make sure you're on that branch when you're editing. If you leave the repository then come back, it will default to showing you `master`, not your new feature branch.
+
 
 
 USER SUBMITS PR
