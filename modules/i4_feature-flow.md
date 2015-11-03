@@ -1,4 +1,6 @@
-#Lesson 4: Recap + The GitHub Workflow
+BOT CREATES THIS LESSON, gives is learning label, and assigns to user, once they've completed the bugfix lesson.
+
+#Lesson 3: The GitHub Workflow
 
 Let's dig into the GitHub Workflow so that you can help us add a feature to our website. This will give you both a conceptual understanding of how GitHub works, as well as experience using the GitHub Workflow with a team.
 

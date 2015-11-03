@@ -1,6 +1,3 @@
-#Users should be able to email us if they want to get in touch.
-
-Let's set up a Contact Us page.
 
 
 #Fix the typos on the front page.

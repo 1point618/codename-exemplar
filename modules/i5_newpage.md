@@ -1,4 +1,4 @@
-Let's create a "contat us" page so that our users can get in touch when they need to.
+Let's create a "contact us" page so that our users can get in touch when they need to.
 
 As always, you can check here to see whether you've completed the steps correctly, and if not I'll comment with how to fix it.
 
@@ -47,10 +47,32 @@ USER COMMENTS HELP/BRANCH
 
 The branch button is found on the front page of the repo.
 
-![Edit Screen](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-branch.png)
+![Create Branch](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-branch.png)
 
 Type the name of the new branch in the text box and hit "enter" to create the new branch and move to it.
 
 A word of caution: make sure you're on that branch when you're editing. If you leave the repository then come back, it will default to showing you `master`, not your new feature branch.
 
-###HAVE FINAL INSTRUCTIONS AT THIS ISSUE FOR THE END OF THE PR
+
+
+USER COMMETNS HELP/FILE
+
+Click this button to create a new file.
+
+![New File](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/new-file.png)
+
+
+USER SUBMITS PR
+-- run through text in `pr2-newpage.md`
+
+
+
+USER MERGES PR AND DELETS BRANCH
+
+Awesome! :sparkles: :fireworks: :tada:
+
+Great job completing the course. You now know everything you need to know to begin collaborating with others on GitHub. 
+
+If you'd like to learn more, I'd recommend just getting started working with other people. Set up your own repo [here](https://github.com/new) and start inviting your friends. You can also collaborate with others on their repositories. Or, check out the [GitHub Guides](https://guides.github.com/) to learn more about GitHub and what else you can do on it!
+
+Do you have any feedback for me on how I could get better? @-mention my boss, `1point618`, below, and he'll be happy to chat with you.
