@@ -4,7 +4,7 @@ BOT CREATES THIS LESSON, gives is learning label, and assigns to user, once they
 
 Let's dig into the GitHub Workflow so that you can help us add a feature to our website. This will give you both a conceptual understanding of how GitHub works, as well as experience using the GitHub Workflow with a team.
 
-To start off, [open this link in a new tab](https://guides.github.com/introduction/flow/) to read up on the GitHub Workflow. Pay special attention to the sections on Branches, Commits, and Pull Requests.
+To start off, [open this link in a new tab](https://guides.github.com/introduction/flow/) to read up on the GitHub Workflow. Pay special attention to the sections on Branches, Commits, and Pull Requests. We're using the Branching workflow, so don't worry about the refernces to the Forking workflow.
 
 Now that you've read it, did some of it seem familiar? When fixing the bug, you did all these steps, although they were crammed together. You created a branch and committed to it at the same time, you went directly to creating a pull request, then I commented on the PR, and you merged it successfully. We didn't need to deploy it to production, because I could view the README right on GitHub, which is what I did to verify that what you'd done was correct.
 

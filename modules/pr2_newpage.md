@@ -14,6 +14,22 @@ COMMENT In-Line on Last  Line of index.md:
 This should be (/contact**.md**), not (/contact/).
 
 
+USER COMMENTS HELP
+
+1. Go to the "files changed" tab.  
+  ![Files Changed](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/files-changed.png)
+2. Scroll down to the index.md file. Copy the new text from the comment.  
+  ![Line Comment](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/line-comment.png)
+3. Click on the edit button.  
+  ![PR Edit](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/pr-edit.png)
+4. Replace the old text with the new text.
+5. Commit your changes to the `contact-page` branch.
+  ![PR Commit](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/pr-commit.png)
+6. Confirm the changes have been made to this PR.
+7. Click back to the "conversation" tab.  
+  ![Conversation](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/conversation.png)
+
+
 USER FIXES FILE
 
 :+1: looks like you fixed it `@user`. Let's merge, delete, then go back to the issue one last time.
