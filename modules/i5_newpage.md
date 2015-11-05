@@ -2,6 +2,8 @@ Let's create a "contact us" page so that our users can get in touch when they ne
 
 As always, you can check here to see whether you've completed the steps correctly, and if not I'll comment with how to fix it.
 
+As usual, you can @-mention me and ask for help if you need it.
+
 ## Instructions
 
 - [ ] Create a new branch called `contact-page`. All work must be done on this branch. The branch-creation button is on the main page of the repo.
@@ -43,7 +45,7 @@ with this text:
 ```
 
 
-USER COMMENTS HELP/BRANCH
+USER COMMENTS HELP before BRANCH is created
 
 The branch button is found on the front page of the repo.
 
@@ -55,7 +57,7 @@ A word of caution: make sure you're on that branch when you're editing. If you l
 
 
 
-USER COMMENTS HELP/FILE
+USER COMMENTS HELP before new file is created
 
 Click this button to create a new file.
 
