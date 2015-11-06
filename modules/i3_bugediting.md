@@ -2,7 +2,7 @@
 
 We've got a bad bug that needs fixing, so I'm going to show you how to do that using the GitHub Workflow. You'll learn how to do some new things on GitHub, and afterwards we'll go over _why_ you did it that way. But for now, just follow my instructions. :smiley:
 
-In GitHub, all our code lives in a Repository, or "repo". You can find the name of the repository that you're in at the top of the page, and can always get to the main codebase by clicking on that name. 
+In GitHub, all our code lives in a Repository, or "repo". You can find the name of the repository that you're in at the top of the page. The name is a link that will take you to the main codebase of the repository.
 
 ![Repo Name](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/repo-name.png)
 
@@ -10,10 +10,10 @@ The `README.md` file is a file that sits in the main directory of a repo. It's a
 
 I've included the text we want in the README below. Add the text to the README file, commit it to a new branch called `readme-bugfix` (**this is very important!**), then submit a pull request for the changes.
 
-Once you've finished this lesson, I'll create a new `learning` issue and assign it to you, you'll need to go there to learn more about why we did things this way.
+Once you've finished this lesson, I'll create a new `learning` issue and assign it to you. You'll need to go there to learn more about why we did things this way.
 
 ---
-If you need help, just @-mention me below asking for help and I'll send you a more detailed image-based tutorial for how to do this. Again, keeping this issue open in its own tab while you do the work will make getting feedback and looking at the task list easier.
+If you need help, just @-mention me below asking for help and I'll send you a more detailed, image-based tutorial for how to do this. Again, keeping this issue open in its own tab while you do the work will make getting feedback and looking at the task list easier.
 
 
 ## Instructions
@@ -39,7 +39,7 @@ This is the content of the README file.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing `@user`! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing @johnpaulashenfelter! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
 1. Click on the repo name.  
   ![Repo Name](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/repo-name.png)
@@ -68,11 +68,11 @@ Sure thing `@user`! I wanted to push you because you'd learned the rest so quick
 Once you do, I'll tell you a bit more about _why_ we do things this way. 
 
 
-USER COMMITS TO MASTER
+USER COMMITS TO MASTER--REVERT README TO ORIGINAL STATE
 
-Hey `@user`. I saw that you committed to `master` instead of creating a new branch. That's actually a bit of a problem, but it's OK! Everyone makes mistakes, and GitHub makes it really easy to revert them.
+Hey @johnpaulashenfelter. I saw that you committed to `master` instead of creating a new branch. That's actually a bit of a problem, but it's OK! Everyone makes mistakes, and GitHub makes it really easy to revert them.
 
-We try never committing directly to `master` because that code immediately shows up to users, and we want to make sure to have multiple people look at it before it does.
+We try to never commit directly to `master` because that code immediately shows up to users. We want to make sure to have multiple people look at it before our users see it.
 
 I've reverted the change to master. Follow the steps below to commit to a new branch.
 
@@ -105,7 +105,7 @@ USER SUBMITS PR CORRECTLY
 
 USER MERGES PR and DELETES BRANCH
 
-Great job `@user`! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
+Great job @johnpaulashenfelter! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
 
 In the next lesson, we're going to take a step back and learn more about the GitHub Workflow and why we use it. When you're read, go to teh new issue I just created and assigned to you called **Lesson 3: The GitHub Workflow**. You'll have the chance to read up on it, then we'll go through it again to add a new feature to our website.
 
