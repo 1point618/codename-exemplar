@@ -1,6 +1,6 @@
 #Add a new contact page to the site.
 
-Hey @johnpaulashenfelter, thanks for making these changes.
+Hey `@user`, thanks for making these changes.
 
 I was testing them and I realized that some of the code was wrong—my fault, I gave you faulty code in the first place. It's a good thing we have multiple people look at it :relaxed:
 
@@ -32,4 +32,4 @@ USER COMMENTS HELP
 
 USER FIXES FILE
 
-:+1: looks like you fixed it @johnpaulashenfelter. Let's merge, delete, then go back to the issue one last time.
+:+1: looks like you fixed it `@user`. Let's merge, delete, then go back to the issue one last time.

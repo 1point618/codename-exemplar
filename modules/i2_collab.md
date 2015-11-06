@@ -23,23 +23,23 @@ ADD HELP HERE
 
 USER ONLY ASSIGNS SOME ISSUES W/ FEATURE LABEL
 
-Hey @johnpaulashenfelter, looks like you didn't assign all the unlabeled issues like I asked. If you use the check boxes in the Issues View, you can assign multiple issues with the same label at the same time. I'd recommend doing it that way.
+Hey `@user`, looks like you didn't assign all the unlabeled issues like I asked. If you use the check boxes in the Issues View, you can assign multiple issues with the same label at the same time. I'd recommend doing it that way.
 
 ![Label Tutorial](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/label-tutorial.png)
 
 
 USER ASSIGNS THE WRONG LABEL
 
-Hey @johnpaulashenfelter, make sure you assign those issues with the `feature` label. I've removed the label you assigned, try it again.
+Hey `@user`, make sure you assign those issues with the `feature` label. I've removed the label you assigned, try it again.
 
 
 USER ASSIGNS WRONG ISSUE
 
-Hey @johnpaulashenfelter, make sure to assign yourself to the issue with both the `bug` and `learning` labels. It's called **Fix the Readme File**. I've un-assigned you from the other issue.
+Hey `@user`, make sure to assign yourself to the issue with both the `bug` and `learning` labels. It's called **Fix the Readme File**. I've un-assigned you from the other issue.
 
 
 USER FINISHES
 
-Great job @johnpaulashenfelter! We use these batch actions to work with multiple issues at a time. Once all your issues are labeled and assigned, it makes it easy to seach for all the issues which are tracking a bug, or all the issues which you have assigned to yourself. 
+Great job `@user`! We use these batch actions to work with multiple issues at a time. Once all your issues are labeled and assigned, it makes it easy to seach for all the issues which are tracking a bug, or all the issues which you have assigned to yourself. 
 
 Now close this issue and go to the `bug` issue that you just assigned to yourself, **Fix the Readme File**. We're going to take a look at how to move beyond communicating on GitHub to actually collaborating on the code.

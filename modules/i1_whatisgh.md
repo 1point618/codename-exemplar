@@ -1,6 +1,6 @@
 #Using Issues to Communicate
 
-Hi @johnpaulashenfelter! Welcome to the team.
+Hi `@user`! Welcome to the team.
 
 I'm Adrian, your mentor. Today I'll be onboarding you to GitHub. GitHub is where we manage our projects and store our code and content. You'll be up and running in no time.
 
@@ -48,17 +48,17 @@ You can perform these actions on the Issues sidebar to the right.
 
 USER ASSIGNS WRONG LABEL
 
-Hey @johnpaulashenfelter, you should actually have labeled this issue as `learning`, not `XXX`. It's no big deal, go ahead and change it above and we'll move forward.
+Hey `@user`, you should actually have labeled this issue as `learning`, not `XXX`. It's no big deal, go ahead and change it above and we'll move forward.
 
 
 USER ASSIGNS WRONG PERSON
 
-Hey @johnpaulashenfelter, you should have assigned yourself to the issue, not `@XXX`. You can fix this by clicking on the gear next to the **Assignee** label and selecting yourself, then we'll move on.
+Hey `@user`, you should have assigned yourself to the issue, not `@XXX`. You can fix this by clicking on the gear next to the **Assignee** label and selecting yourself, then we'll move on.
 
 
 USER PERFORMS BOTH ACTIONS
 
-Great job @johnpaulashenfelter!
+Great job `@user`!
 
 We use issues for all sorts of communications, including reporting bugs, requesting new features, open-ended discussions about our project, and tracking the development of the project. 
 

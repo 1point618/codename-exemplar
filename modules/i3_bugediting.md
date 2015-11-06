@@ -39,7 +39,7 @@ This is the content of the README file.
 
 USER COMMENTS W/ `HELP`
 
-Sure thing @johnpaulashenfelter! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
+Sure thing `@user`! I wanted to push you because you'd learned the rest so quickly, but this trips everyone up the first time they try it. What you need to do is follow the instructions below.
 
 1. Click on the repo name.  
   ![Repo Name](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/repo-name.png)
@@ -70,7 +70,7 @@ Once you do, I'll tell you a bit more about _why_ we do things this way.
 
 USER COMMITS TO MASTER--REVERT README TO ORIGINAL STATE
 
-Hey @johnpaulashenfelter. I saw that you committed to `master` instead of creating a new branch. That's actually a bit of a problem, but it's OK! Everyone makes mistakes, and GitHub makes it really easy to revert them.
+Hey `@user`. I saw that you committed to `master` instead of creating a new branch. That's actually a bit of a problem, but it's OK! Everyone makes mistakes, and GitHub makes it really easy to revert them.
 
 We try to never commit directly to `master` because that code immediately shows up to users. We want to make sure to have multiple people look at it before our users see it.
 
@@ -105,7 +105,7 @@ USER SUBMITS PR CORRECTLY
 
 USER MERGES PR and DELETES BRANCH
 
-Great job @johnpaulashenfelter! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
+Great job `@user`! That was a lot of help for us, and a lot to learn for you. Let's take a step back and learn more about what you just did. The steps you took are called **The GitHub Workflow**, and they are a very important part of how we do work on GitHub. 
 
 In the next lesson, we're going to take a step back and learn more about the GitHub Workflow and why we use it. When you're read, go to teh new issue I just created and assigned to you called **Lesson 3: The GitHub Workflow**. You'll have the chance to read up on it, then we'll go through it again to add a new feature to our website.
 

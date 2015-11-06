@@ -68,7 +68,7 @@ Click this button to create a new file.
 
 USER COMMITS A FILE TO MASTER
 
-Hey @johnpaulashenfelter. You really oughtn't commit to `master`. I've cleaned up the commit, please try again, this time to the `contact-page` branch.
+Hey `@user`. You really oughtn't commit to `master`. I've cleaned up the commit, please try again, this time to the `contact-page` branch.
 
 If you need help creating or finding that branch, the branch button is found on the front page of the repo.
 
