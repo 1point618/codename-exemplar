@@ -49,6 +49,15 @@ Sure thing `@user`! I wanted to push you because you'd learned the rest so quick
   ![Edit Icon](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/edit-icon.png)
 4. Copy and paste the above text into the edit screen.  
   ![Edit Screen](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/edit-screen.png)
+
+Try figuring out the rest yourself. If you still need help, let me know and I'll walk you through the rest.
+
+
+
+USER COMMENTS w/ HELP again
+
+4. Copy and paste the above text into the edit screen.  
+  ![Edit Screen](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/edit-screen.png)
 5. Add a commit title and message, or just use the default ones.
 6. Click on the "create a new branch" button.
 7. Name the branch `readme-bugfix`.  
@@ -57,15 +66,10 @@ Sure thing `@user`! I wanted to push you because you'd learned the rest so quick
 9. In the comment section of the PR, include the text `fixes #3`. This tells the PR that it is associated with this issue.
 10. Create the pull request.  
   ![Create PR](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-pr.png)
-11. Wait for the teacher to comment on your PR. 
-12. Once they've given you the thumbs up, click "merge the pull request", and confirm the merge.  
-  ![Merge PR](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/merge-pr.png)
-13. Delete the branch.  
-  ![Delete Branch](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/delete-branch.png)
-14. Come back to this issue by clicking on the "#3" in the comment from earlier. This issue should be closed, because of the `fixes` tag.
-15. Confirm that the issue is closed and all the boxes are checked above, then go to the Issues View and look for the new `leanring`-labeled issue I've created and assigned to you. 
 
-Once you do, I'll tell you a bit more about _why_ we do things this way. 
+
+If you need more help, you should ask me in the PR that you just created.
+
 
 
 USER COMMITS TO MASTER--REVERT README TO ORIGINAL STATE
@@ -76,7 +80,7 @@ We try to never commit directly to `master` because that code immediately shows 
 
 I've reverted the change to master. Follow the steps below to commit to a new branch.
 
-4. Copy and paste the above text into the edit screen of the `README.md` file.  
+4. Copy and paste the above text into the edit screen of the `README.md` file. 
   ![Edit Screen](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/edit-screen.png)
 5. Add a commit title and message, or just use the default ones.
 6. Click on the "**create a new branch**" button.
@@ -86,15 +90,8 @@ I've reverted the change to master. Follow the steps below to commit to a new br
 9. In the comment section of the PR, include the text `fixes #3`. This tells the PR that it is associated with this issue.
 10. Create the pull request.  
   ![Create PR](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-pr.png)
-11. Wait for the teacher to comment on your PR. 
-12. Once they've given you the thumbs up, click "merge the pull request", and confirm the merge.  
-  ![Merge PR](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/merge-pr.png)
-13. Delete the branch.  
-  ![Delete Branch](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/delete-branch.png)
-14. Come back to this issue by clicking on the "#3" in the comment from earlier. This issue should be closed, because of the `fixes` tag.
-15. Confirm that the issue is closed and all the boxes are checked above, then go to the Issues View and look for the new `leanring`-labeled issue I've created and assigned to you. 
 
-Once you do, I'll tell you a bit more about _why_ we do things this way.  
+If you need more help, you should ask me in the PR that you just created.
 
 
 

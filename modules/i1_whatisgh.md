@@ -28,12 +28,12 @@ Oops. Next time, include my user name after an `@` symbol, like this:
 
 @-mentions are used to tag people into conversations so that they know you're talking about them and want their input. A person will receive a notification when you @-mention them.
 
-Now, on the right sidebar, assign this issue to yourself and label it with the gold `learning` label. I'll keep track of your progress in this comment. If you're not sure if you did it right, refresh the page then check below to see if I checked the box or not.
+Now, on the right, assign this issue to yourself and label it with the gold `learning` label. I'll keep track of your progress in this comment. If you're not sure if you did it right, **refresh the page** then check below to see if I checked the box or not.
 
 - [ ] Assign self.
 - [ ] Add `learning` label.
 
-If you can't figure out how to do this, @-mention me in a comment asking for "help" and I'll give you more direct instructions.
+If you can't figure out, @-mention me in a comment asking for "help" and I'll give you more direct instructions.
 
 
 USER COMMENTS HELP
