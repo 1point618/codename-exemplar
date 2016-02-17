@@ -8,9 +8,9 @@ As usual, you can @-mention me and ask for help if you need it.
 
 - [ ] Create a new branch called `contact-page`. All work must be done on this branch. The branch-creation button is on the main page of the repo.  
   ![Create Branch](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/create-branch-2.png)
-- [ ] Create a new file in the directory called `contact.md`. The contents of that file are found in the first comment below. Commit that file to `contact-page`.
+- [ ] Create a new file in the directory called `contact.md`. The contents of that file are found in the first comment below. Commit that file to `contact-page` branch.
 - [ ] In the `index.md` file, add a link to the contact page to the header. You'll find the code for doing this in the second comment below. Commit this change to `contact-page`.
-- [ ] Create a PR which compares `master` to `contact-page`. Include the text `fixes 9` in the comment, and @-mention me in it.
+- [ ] Create a PR which compares `master` to `contact-page`. Include the text `fixes #4` in the comment, and @-mention me in it.
 - I will check your work and reply there with next steps. 
 
 

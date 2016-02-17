@@ -28,6 +28,11 @@ Hey `@user`, looks like you didn't assign all the unlabeled issues like I asked.
 ![Label Tutorial](https://raw.githubusercontent.com/1point618/codename-exemplar/master/img/label-tutorial.png)
 
 
+USER ASSIGNS ALL ISSUES W/ THE FEATURE LABEL
+
+
+
+
 USER ASSIGNS THE WRONG LABEL
 
 Hey `@user`, make sure you assign those issues with the `feature` label. I've removed the label you assigned, try it again.

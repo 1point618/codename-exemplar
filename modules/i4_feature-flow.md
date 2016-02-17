@@ -12,7 +12,7 @@ The flow we went through, creating a branch and committing to it at the same tim
 
 Enough talk, let's get started! Go to the Issue View and assign yourself the Issue called **Users should be able to email us if they want to get in touch**. In that Issue, we'll discuss the work that needs to get done in order to get the new feature up and running.
 
-This issue will stay here as a repository for everything you've learned so far. You can go through the comments below to find resources on Issues, Commits, Branches, and more. Go ahead and leave it open or close it, it's up to you—either way you'll be able to come back to it to review the work you've done.
+This issue will stay here as a library for everything you've learned so far. You can go through the comments below to find resources on Issues, Commits, Branches, and more. Go ahead and leave it open or close it, it's up to you—either way you'll be able to come back to it to review the work you've done.
 
 
 COMMENT 1
