@@ -3,7 +3,7 @@
 - [ ] Create a new repo called `exemplar-prototype-USERNAME`.
     - [ ] The repo must be instantialized with a Readme, but does not need a `.gitignore` file.
 - [ ] On local repo, find and replace all the instances of \`@user\` with the subject's github user name in the `i#_XX.md` files. 
-- [ ] Create issue called **Lesson 1: Using Issues to Communicate** with text from [i1_whatisgh.md](modules/i1_whatisgh.md].
+- [ ] Create issue called **Lesson 1: Using Issues to Communicate** with text from [i1_whatisgh.md](modules/i1_whatisgh.md).
 - [ ] Create issue called **Lesson 2: Managing Issues** with text from [i2_collab.md](modules/i2_collab.md).
 - [ ] Create issue called **Fix the Readme File** with text from [i3_bugediting.md](modules/i3_bugediting.md).
   - [ ] Add comment to this issue from [i3_bugediting.md](modules/i3_bugediting.md).
